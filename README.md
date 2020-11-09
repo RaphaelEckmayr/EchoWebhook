@@ -7,6 +7,6 @@
  To setup EchoWebhook you need a Webserver which can run Java Servlets (for example Apache-Tomcat). The easiest way to install the .war file is by using the Tomcat Manager in your browser.
 
 # Usage
-/echo - Catch request and save to file
-/requests - Get all cought requests
-/reset - Clear file of cought requests
+- /echo - Catch request and save to file
+- /requests - Get all cought requests
+- /reset - Clear file of cought requests
