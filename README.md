@@ -10,3 +10,5 @@
 - /echo - Catch request and save to file
 - /requests - Get all cought requests
 - /reset - Clear file of cought requests
+
+Shoutout to Wix.com and their poorly documented automatisations with webhooks for this opportunity :D
